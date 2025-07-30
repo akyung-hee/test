@@ -1,0 +1,5 @@
+
+{
+  "name": "Digital Praise Box",
+  "description": "An app that generates a 3-line acrostic poem for a user's name based on a random praise phrase using Gemini AI."
+}
